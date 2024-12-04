@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 04.12.2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,21 +34,26 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+
+![WhatsApp Image 2024-12-04 at 11 35 49 AM (2)](https://github.com/user-attachments/assets/eb818067-9ac3-407c-aafc-5e2f963ad290)
+
+![WhatsApp Image 2024-12-04 at 11 35 49 AM (1)](https://github.com/user-attachments/assets/f0af80d3-b26b-4362-923d-d7f614d50f7a)
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+
+![WhatsApp Image 2024-12-04 at 11 35 50 AM](https://github.com/user-attachments/assets/03780342-ece5-4144-8b66-1b78dc540043)
+
+![WhatsApp Image 2024-12-04 at 11 35 49 AM](https://github.com/user-attachments/assets/2995aeec-803c-4ed1-a156-d2ff47da61a2)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
-## Output:
+![WhatsApp Image 2024-12-04 at 11 35 50 AM (2)](https://github.com/user-attachments/assets/892507c8-edbd-41b2-817a-c75415f52469)
 
-### Name:
-### Register Number:
+![WhatsApp Image 2024-12-04 at 11 35 50 AM (3)](https://github.com/user-attachments/assets/a62c86ae-4959-4faa-8524-e6089c6b5b67)
+
+
+### Name: SYED SAIF SYED GHOUSE
+### Register Number: 24009014
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
